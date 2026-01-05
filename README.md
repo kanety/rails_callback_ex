@@ -5,7 +5,7 @@ Insert/delete callbacks for rails.
 ## Dependencies
 
 * ruby 3.0+
-* rails 6.1+
+* rails 7.0+
 
 ## Installation
 
